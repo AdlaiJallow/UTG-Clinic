@@ -1,0 +1,84 @@
+/* form section */
+.body-page{
+  background-color: #fff;
+  text-align: center;
+  margin-top: 55px;
+  width: 25%;
+  margin-left: 35%;
+  height: 380px;
+  padding-left: 15px;
+}
+h3{
+  font-size: 23px;
+  text-align: left;
+  padding-top: 20px;
+  margin-right: 8%;
+}
+
+.input-value1{
+  width: 90%;
+  height: 35px;
+  font-size: 15px;
+  /* padding-left: 5px; */
+  margin-right: 5%;
+  border-radius: 5px;
+  border-color: #CCD1D1;
+  border-style: inset;
+}
+
+.input-value2{
+  margin-top: 12px;
+  width: 90%;
+  height: 35px;
+  margin-right: 5%;
+  font-size: 15px;
+  padding-left: 5px;
+  border-radius: 5px;
+  border-color: #CCD1D1;
+}
+.aa{
+  color: #fff;
+  text-decoration: none;
+  
+}
+
+.signIn-btn2{
+  margin-top: 12px;
+  margin-bottom: 12px;
+  width: 93%;
+  background-color: rgb(36, 158, 228);
+  color: #fff;
+  border-radius: 5px;
+  height: 38px;
+  border: none;
+  margin-right: 8%;
+  font-size: 18px;
+}
+
+hr{
+  height: 1px;
+  border: none;
+  background-color: rgb(36, 158, 228);
+  width: 90%;
+  /* padding-left: -px; */
+  margin-right: 8%;
+  margin-left: 2%;
+}
+
+.password-btn{
+  margin-top: 12px;
+  width: 93%;
+  height: 50px;
+  margin-right: 6%;
+  background-color: #656e77;
+  font-size: 20px;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 15px;
+}
+
+.fa-brands {
+  margin-right: 8px;
+}
+
